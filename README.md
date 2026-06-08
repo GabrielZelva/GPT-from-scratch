@@ -3,7 +3,7 @@
 **Author**: Gabriel Pišvejc
 **Contact**: GabrielPisvejc@Protonmail.com, [LinkedIn](https://www.linkedin.com/in/gabrielpisvejc/?profileId=ACoAADo5FU0BnBPkBj5SmMESVBJ633BazdnsESU)
 
-In this small showcase, I built a small clone of the GPT-2 model by OpenAI using basic PyTorch. See my implementation [here](placeholder/link). My Deep Learning classes at the [NLP Master's at EHU/UPV](https://www.ehu.eus/en/web/master/master-language-analysis-processing)were a heavy source of knowledge for this exercise. 
+In this small showcase, I built a small clone of the GPT-2 model by OpenAI using basic PyTorch. See my implementation [here](https://github.com/GabrielZelva/GPT-from-scratch/blob/main/GPT_from_scratch.ipynb). My Deep Learning classes at the [NLP Master's at EHU/UPV](https://www.ehu.eus/en/web/master/master-language-analysis-processing)were a heavy source of knowledge for this exercise. 
 
 ## Features
 
